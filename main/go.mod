@@ -5,3 +5,7 @@ go 1.24.4
 replace ypmodule => ../ypmodule
 
 require ypmodule v0.0.0-00010101000000-000000000000 // indirect
+
+require (
+github.com/Vera-Kovaleva/Yandex_Go_Kurs/ypmodule/calc v0.0.0-00010101000000-000000000000
+)
